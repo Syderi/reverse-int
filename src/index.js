@@ -9,8 +9,8 @@ module.exports = function reverse(n) {
     let n3 = n2.split('').reverse().join('');
     let n4= n3 *1 / 1;
     // console.log(n3);
-    console.log(typeof(n4));
+    // console.log(typeof(n4));
     return Math.abs(n4*argum);
 }
 
-console.log(module.exports(-231));
+// console.log(module.exports(-231));
