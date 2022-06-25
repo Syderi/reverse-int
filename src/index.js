@@ -10,7 +10,7 @@ module.exports = function reverse(n) {
     let n4= n3 *1 / 1;
     // console.log(n3);
     console.log(typeof(n4));
-    return n4*argum;
+    return Math.abs(n4*argum);
 }
 
 console.log(module.exports(-231));
